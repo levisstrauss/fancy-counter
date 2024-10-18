@@ -1,7 +1,8 @@
 
-export const Title = () => {
+export const Title = ({ locked }) => {
     return (
-        <h1 className="title">Fancy Counter</h1>
-
+        <h1 className="title">
+            {locked ? <span>Limit! Buy <b>Pro</b> for &gt;5</span> : "Fancy Counter"}
+        </h1>
     )
 }
