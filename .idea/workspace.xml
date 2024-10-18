@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c471ea4d-a2b1-4389-bc4b-cb6aa3ca5c23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/ButtonContainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CountButton.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Card.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Card.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Count.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Count.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CountButtons.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ResetButton.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ResetButton.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Title.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Title.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +42,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/img" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693852361935</updated>
       <workItem from="1728907340521" duration="3389000" />
-      <workItem from="1729177035670" duration="14421000" />
+      <workItem from="1729177035670" duration="15532000" />
     </task>
     <servers />
   </component>
